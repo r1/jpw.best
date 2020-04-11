@@ -1,4 +1,4 @@
-# jpw.best   [![]https://img.shields.io/badge/uptime-100%25-brightgreen]
+# jpw.best   [![](https://img.shields.io/badge/uptime-100%25-brightgreen)]
 
 My Portfolio Website 🌌
 
